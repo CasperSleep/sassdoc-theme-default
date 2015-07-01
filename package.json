@@ -1,15 +1,15 @@
 {
-  "name": "sassdoc-theme-default",
-  "description": "SassDoc's default theme",
-  "title": "SassDoc Default Theme",
-  "author": "SassDoc team",
-  "version": "2.3.6",
+  "name": "sassdoc-theme-nightshade",
+  "description": "Casper's default theme for Nightshade",
+  "title": "SassDoc Nightshade Theme",
+  "author": "Casper Front-End Team",
+  "version": "1.0.0",
   "keywords": [
     "sassdoc-theme"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/SassDoc/sassdoc-theme-default.git"
+    "url": "https://github.com/CasperSleep/sassdoc-theme-nightshade"
   },
   "files": [
     "assets",
